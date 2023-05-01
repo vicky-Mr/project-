@@ -1,4 +1,4 @@
-# animated countdown for using html-css-js
+# Animated Countdown Timer 3D for using html-css-js
 
 images
 
